@@ -1,0 +1,48 @@
+body{
+  color:orange;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  background-color: #ffffff;
+  width: 85vw;
+  max-width: 40em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  padding: 2em;
+  border-radius: 5em;
+  box-shadow: 0 1.2em 2.8em rgb(200, 12, 106);
+}
+
+h1{
+  text-align: justify;
+  outline-color: blue;
+  color:blueviolet;
+}
+
+nav{
+  color:blue;
+  background-color: aquamarine;
+  width: 100%;
+}
+  
+footer{
+  color:blue;
+  background-color: rgb(255, 185, 127);
+  width: 100%;
+}
+
+button{
+  width: 20px;
+}
+
+#display{
+  background-color: rgb(0, 0, 0);
+  width: fit-content;
+  align-self: center;
+  height: 30px;
+  text-align-last: center;
+  text-emphasis-color: white;
+}
